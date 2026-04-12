@@ -1,5 +1,5 @@
 {
-"count": 1561,
+"count": 1571,
 "entries": [
     {
         "API": "Cat Facts",
@@ -1334,6 +1334,15 @@
         "Category": "Business"
     },
     {
+        "API": "USPTO Trademark",
+        "Description": "Trademark keyword search, availability, owner, serial search, attorney info, MCP ready",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://rapidapi.com/pentium10/api/uspto-trademark",
+        "Category": "Business"
+    },
+    {
         "API": "Abstract Public Holidays",
         "Description": "Data on national, regional, and religious holidays via API",
         "Auth": "apiKey",
@@ -1961,6 +1970,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://coinremitter.com/docs",
+        "Category": "Cryptocurrency"
+    },
+    {
+        "API": "CoinStats",
+        "Description": "Blockchain and DeFi across 120+ chains, market, historical data, portfolio tracking, news, sentiment, MCP, and agent skills",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://coinstats.app/api-docs/",
         "Category": "Cryptocurrency"
     },
     {
@@ -3269,15 +3287,6 @@
         "Category": "Development"
     },
     {
-        "API": "License-API",
-        "Description": "Unofficial REST API for choosealicense.com",
-        "Auth": "",
-        "HTTPS": true,
-        "Cors": "no",
-        "Link": "https://github.com/cmccandless/license-api/blob/master/README.md",
-        "Category": "Development"
-    },
-    {
         "API": "Lua Decompiler",
         "Description": "Online Lua 5.1 Decompiler",
         "Auth": "",
@@ -3311,6 +3320,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/converter-md-html",
+        "Category": "Development"
+    },
+    {
+        "API": "MetaScrape",
+        "Description": "Extract metadata, Open Graph tags, and structured data from any URL",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://metascrape.shanecode.org",
         "Category": "Development"
     },
     {
@@ -3383,6 +3401,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
+        "Category": "Development"
+    },
+    {
+        "API": "Olostep",
+        "Description": "AI-native web search, scraping, and crawling API that delivers clean, structured, real-time web data. Used by top AI companies",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.olostep.com",
         "Category": "Development"
     },
     {
@@ -5348,6 +5375,15 @@
         "Category": "Finance"
     },
     {
+        "API": "Open Bank Project",
+        "Description": "Enable account holders to interact with their banks using a wider range of applications and services",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.openbankproject.com",
+        "Category": "Finance"
+    },
+    {
         "API": "OpenFIGI",
         "Description": "Equity, index, futures, options symbology from Bloomberg LP",
         "Auth": "apiKey",
@@ -6212,6 +6248,15 @@
         "Category": "Games & Comics"
     },
     {
+        "API": "Minecraft ServerHub",
+        "Description": "Minecraft server status, player counts, MOTD, and live status badges",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://minecraft-serverhub.com/developers",
+        "Category": "Games & Comics"
+    },
+    {
         "API": "MMO Games",
         "Description": "MMO Games Database, News and Giveaways",
         "Auth": "",
@@ -7041,11 +7086,11 @@
     },
     {
         "API": "IPWhois",
-        "Description": "Identify website, IP, or email owners with geolocation, reverse IP lookup, country insights, ASN data, and email verification",
+        "Description": "IP geolocation and IP intelligence API providing location, ISP, ASN, and proxy detection data for IPv4 and IPv6 addresses",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://www.ipwhois.io/documentation",
+        "Cors": "yes",
+        "Link": "https://ipwhois.io",
         "Category": "Geocoding"
     },
     {
@@ -10343,6 +10388,15 @@
         "Category": "Photography"
     },
     {
+        "API": "ShotOG",
+        "Description": "Open-source OG image generation with 8 templates, custom fonts, and batch generation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://shotog.2214962083.workers.dev/docs",
+        "Category": "Photography"
+    },
+    {
         "API": "shutterstock",
         "Description": "Stock Photos and Videos",
         "Auth": "OAuth",
@@ -11807,6 +11861,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://highlightly.net/documentation/hockey/",
+        "Category": "Sports & Fitness"
+    },
+    {
+        "API": "iSports API",
+        "Description": "Provide live and historical sports data of global competitions, like live score, fixtures, player & match stats, database etc.",
+        "Auth": "apiKey",
+        "HTTPS": false,
+        "Cors": "yes",
+        "Link": "https://isportsapi.com/",
         "Category": "Sports & Fitness"
     },
     {
@@ -13817,6 +13880,15 @@
         "Category": "Weather"
     },
     {
+        "API": "Data Commons",
+        "Description": "Open source initiative from Google. Global disaster events and statistics data",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://datacommons.org/disasters",
+        "Category": "Weather"
+    },
+    {
         "API": "Euskalmet",
         "Description": "Meteorological data of the Basque Country",
         "Auth": "apiKey",
@@ -13832,6 +13904,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.foreca.com",
+        "Category": "Weather"
+    },
+    {
+        "API": "GISTDA",
+        "Description": "Thailand natural disaster information",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://disaster.gistda.or.th/services/open-api",
         "Category": "Weather"
     },
     {
@@ -13904,6 +13985,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.metoffice.gov.uk/services/data/datapoint/",
+        "Category": "Weather"
+    },
+    {
+        "API": "NOAA NGDC",
+        "Description": "Natural hazards data including earthquakes, tsunamis, and volcanic eruptions",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.ngdc.noaa.gov/",
         "Category": "Weather"
     },
     {
