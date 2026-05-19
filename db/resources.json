@@ -1,5 +1,5 @@
 {
-"count": 1573,
+"count": 1584,
 "entries": [
     {
         "API": "Cat Facts",
@@ -197,6 +197,15 @@
         "HTTPS": false,
         "Cors": "yes",
         "Link": "https://wiki.anidb.net/HTTP_API_Definition",
+        "Category": "Anime"
+    },
+    {
+        "API": "Anijam",
+        "Description": "An AI animation tool for creating anime and animated videos with one-click generation, consistent characters and automatic lip-syncing",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.anijam.ai",
         "Category": "Anime"
     },
     {
@@ -665,6 +674,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://php-noise.com/",
+        "Category": "Art & Design"
+    },
+    {
+        "API": "Picsart",
+        "Description": "Image & video editing, generative AI, 100+ AI models via unified API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://picsart.io",
         "Category": "Art & Design"
     },
     {
@@ -2576,6 +2594,15 @@
         "Category": "Development"
     },
     {
+        "API": "Agent Gateway",
+        "Description": "34+ AI agent infrastructure services including memory, wallets, and scheduling",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://agent-gateway-kappa.vercel.app",
+        "Category": "Development"
+    },
+    {
         "API": "Agify.io",
         "Description": "Estimates the age from a first name",
         "Auth": "",
@@ -2888,6 +2915,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://apyhub.com/utility/reformify-form-api",
+        "Category": "Development"
+    },
+    {
+        "API": "FormForge",
+        "Description": "Generate styled, accessible HTML forms from JSON definitions with validation",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://formforge-api.vercel.app",
         "Category": "Development"
     },
     {
@@ -3719,6 +3755,15 @@
         "Category": "Development"
     },
     {
+        "API": "SEO Score",
+        "Description": "Comprehensive SEO audit with 28 checks, scoring, and prioritized recommendations",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://seoscoreapi.com",
+        "Category": "Development"
+    },
+    {
         "API": "SEO Tags Generator API",
         "Description": "The Generate SEO Tags API generates all the most important META tags based on any content",
         "Auth": "apiKey",
@@ -3860,6 +3905,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.svix.com",
+        "Category": "Development"
+    },
+    {
+        "API": "TalorData",
+        "Description": "Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://talordata.com",
         "Category": "Development"
     },
     {
@@ -4364,6 +4418,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pdfblocks.com",
+        "Category": "Documents & Productivity"
+    },
+    {
+        "API": "PDFBolt",
+        "Description": "High-quality HTML to PDF conversion with templates and AI generation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://pdfbolt.com/docs",
         "Category": "Documents & Productivity"
     },
     {
@@ -5062,10 +5125,10 @@
     {
         "API": "Website Carbon",
         "Description": "API to estimate the carbon footprint of loading web pages",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://api.websitecarbon.com/",
+        "Cors": "yes",
+        "Link": "https://docs.1clickimpact.com/website-carbon",
         "Category": "Environment"
     },
     {
@@ -5543,6 +5606,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://twelvedata.com/",
+        "Category": "Finance"
+    },
+    {
+        "API": "ValueRay",
+        "Description": "Technical, quantitative and sentiment data for stocks and ETFs, optimized for AI/LLM",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.valueray.com/api",
         "Category": "Finance"
     },
     {
@@ -9111,11 +9183,11 @@
     },
     {
         "API": "Musixmatch",
-        "Description": "Music",
+        "Description": "Access lyrics, subtitles and music data",
         "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://developer.musixmatch.com/",
+        "Cors": "yes",
+        "Link": "https://www.musixmatch.com/pro/api/",
         "Category": "Music"
     },
     {
@@ -10874,6 +10946,15 @@
         "Category": "Security"
     },
     {
+        "API": "ArkForge Trust Layer",
+        "Description": "Cryptographic proof API for HTTP exchanges — Ed25519, RFC 3161, and Sigstore Rekor attestation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://arkforge.fr/trust",
+        "Category": "Security"
+    },
+    {
         "API": "BinaryEdge",
         "Description": "Provide access to BinaryEdge 40fy scanning platform",
         "Auth": "apiKey",
@@ -11177,6 +11258,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.police.uk/docs/",
+        "Category": "Security"
+    },
+    {
+        "API": "Virus and Malware Scan API by attachmentAV",
+        "Description": "Scan files for viruses, worms, trojans, ransomware, and other kinds of malware by sending them to the attachmentAV API powered by Sophos",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://attachmentav.com/solution/virus-malware-scan-api/",
         "Category": "Security"
     },
     {
@@ -13625,6 +13715,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rulesofacquisition.herokuapp.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Shoof Aflam",
+        "Description": "Arabic streaming guide — search 14,000+ movies/series, platform availability across 18 services",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://shoofaflam.tv/api-docs/",
         "Category": "Video"
     },
     {
